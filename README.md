@@ -1,4 +1,4 @@
-# CÓDIGO 1
+# [CÓDIGO 1](http://127.0.0.1:5500/projeto.html)
 
 ## O que cada função do código faz?
 
@@ -26,7 +26,7 @@
 
     Sendo mais especifico o código mostra a data atual na página.
 
-# CÓDIGO 2
+# [CÓDIGO 2](http://127.0.0.1:5500/projeto2.html)
 
 ## O que cada função do código faz
 
@@ -40,7 +40,7 @@
 
 ### window.location.href
 
-    esse código mostra o link da página que ele está localizado
+    É utilizado para achar e especificar a URL da página
 
 ## Função
 
