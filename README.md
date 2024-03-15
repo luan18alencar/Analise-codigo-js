@@ -5,6 +5,8 @@
 
 # [CÓDIGO 1](http://127.0.0.1:5500/projeto.html)
 <img src ="data.png">
+<img src ="projeto1.png">
+
 
 
 # INTRODUÇÃO
@@ -40,6 +42,7 @@
 # [CÓDIGO 2](http://127.0.0.1:5500/projeto2.html)
  
 <img src = "link.png">
+<img src ="projeto2.png">
 
 ## O que cada função do código faz
 
