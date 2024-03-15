@@ -1,4 +1,5 @@
 # [CÓDIGO 1](http://127.0.0.1:5500/projeto.html)
+<img src ="data.png">
 
 ## O que cada função do código faz?
 
