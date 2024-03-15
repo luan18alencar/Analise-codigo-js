@@ -1,5 +1,15 @@
+# INTRODUÇÃO
+
+     Esse é um projeto no qual peguei um código pronto de Java script  e ditei como cada função agia de acordo com o código.
+
+
 # [CÓDIGO 1](http://127.0.0.1:5500/projeto.html)
 <img src ="data.png">
+
+
+# INTRODUÇÃO
+
+    Esse é um projeto no qual peguei um código pronto de Java script e 
 
 ## O que cada função do código faz?
 
@@ -48,3 +58,18 @@
 ## Função
 
     Esse código é utilizado para obter a URL da página
+
+# Conclusão
+
+
+## FERRAMENTAS UTILIZADAS
+
+Visual Studio code
+HTML5
+IMAGENS
+JAVASCRIPT
+
+# CONTATO
+
+github: luan18alencar
+número de celular : 55 43 998633658
