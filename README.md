@@ -67,12 +67,16 @@
 
 ## FERRAMENTAS UTILIZADAS
 
-Visual Studio code
-HTML5
-IMAGENS
-JAVASCRIPT
+    Visual Studio code
+
+    HTML5
+
+    IMAGENS
+
+    JAVASCRIPT
 
 # CONTATO
 
-github: luan18alencar
-número de celular : 55 43 998633658
+    github: luan18alencar
+
+    número de celular : 55 43 998633658
